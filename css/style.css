@@ -1,0 +1,19 @@
+body {
+    font-family: sans-serif;
+    color: gray;
+}
+
+h1 {
+    text-transform: uppercase;
+    text-align: center;
+}
+
+ul {
+    list-style: none;
+}
+
+section {
+    width: 800px;
+    /* espacamento externo:top/bottom 0, left/right automatico */
+    margin: 0 auto;
+}
